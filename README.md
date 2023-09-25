@@ -1,3 +1,6 @@
+![GitHub stars](https://img.shields.io/github/stars/gemhunterheh/Solana-nft-bot?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/gemhunterheh/Solana-nft-bot?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/gemhunterheh/Solana-nft-bot-Bot?style=flat-square)
 # FriendTech Trading Tool
 
 ![FriendTech Trading Tool Logo](link-to-your-logo.png)
