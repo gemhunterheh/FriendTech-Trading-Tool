@@ -3,7 +3,7 @@
 ![GitHub license](https://img.shields.io/github/license/gemhunterheh/Solana-nft-bot-Bot?style=flat-square)
 # FriendTech Trading Tool
 
-![FriendTech Trading Tool Logo](link-to-your-logo.png)
+![](https://github.com/gemhunterheh/FriendTech-Trading-Tool/blob/main/photo.png?raw=true)
 
 FriendTech Trading Tool is a powerful and user-friendly trading platform designed to help traders make informed decisions and execute trades efficiently. Whether you're a beginner or an experienced trader, our tool provides the features and data you need to excel in the world of trading.
 
